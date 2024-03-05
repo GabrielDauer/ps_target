@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfólio
 
 Bem vindos(as) ao meu Portfólio. Pretendo contribuir com estudos de ciência de ciência de dados e machine learning neste portfólio com o passar do tempo.
@@ -101,3 +102,6 @@ plt.title('Valores Reais vs Valores Previstos')
 plt.legend()
 
 plt.show()
+=======
+# ps_target
+>>>>>>> 3b89c77d1a41b26a08cf6d6d3e216863f06c6d55
